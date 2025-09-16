@@ -31,9 +31,13 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=#0052CC" />&nbsp
+  <img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&logoColor=0052CC" />&nbsp
   <img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?style=for-the-badge&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />&nbsp
 </div>
 
 # 📆 교육 이수
@@ -42,28 +46,39 @@
 기간: 2025.05.12~2025.11.05 (이수 예정)
 
 # 🚀 Project
-<a href="https://github.com/kim-jaeeun-class/2ndProj">
-  <h3>1. API 웹 솔루션 프로젝트</h3>
-</a>
+<h3>1. API 웹 솔루션 프로젝트</h3> 
 MES를 위한 API 웹 솔루션 프로젝트(250829~250915)
+<a href="https://github.com/kim-jaeeun-class/2ndProj">링크</a>
 <ul>
-  <li>역할 : 팀장, 최종 발표, 개발</li>
-  <li>담담 영역: 공정 관리(스토리보드, 프론트, 백), BOM 관리(스토리보드, 프론트), 품질 관리(스토리보드, 프론트, 백)</li>
+  <li>역할 : 
+    <ul>
+      <li>팀장 : 계획 수립, 일정 조정</li>
+      <li>최종 발표, 개발</li>
+    </ul>
+  </li>
+  <li>담담 영역 : 공정 관리(스토리보드, 프론트, 백), BOM 관리(스토리보드, 프론트), 품질 관리(스토리보드, 프론트, 백)</li>
   <li>사용 기술 : 프론트엔드(HTML5, CSS3, JavaScript), 백엔드(Java, JSP, Servlet)</li>
   <li>사용 Tools : STS3, Visual Studio Code, OracleSQLDeveloper, GitHub, Sourcetree, Discord</li>
 </ul>
 
-<a href="https://github.com/kim-jaeeun-class/2ndProj">
-  <h3>2. 객체 지향 프로젝트</h3>
-</a>
+<br>
+
+<h3>2. 객체 지향 프로젝트</h3>
 웹페이지를 위한 프론트엔드 프로젝트(250723~250805)
+<a href="https://github.com/kim-jaeeun-class/2ndProj">링크</a>
 <ul>
-  <li>역할 : 팀장, PPT 작성, 개발</li>
+    <li>역할 : 
+    <ul>
+      <li>팀장 : 계획 수립, 일정 조정</li>
+      <li>개발</li>
+    </ul>
+  </li>
   <li>담담 영역: 고객센터 페이지(스토리보드, 프론트)</li>
   <li>사용 기술 : 프론트엔드(HTML5, CSS3, JavaScript)</li>
   <li>사용 Tools : Visual Studio Code, GitHub, Sourcetree, Discord</li>
 </ul>
 
+<br>
 
 # 📫 Contact
 <div align="center">
