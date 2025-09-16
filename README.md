@@ -47,7 +47,7 @@
 
 # 🚀 Project
 <h3>1. API 웹 솔루션 프로젝트</h3> 
-MES를 위한 API 웹 솔루션 프로젝트(250829~250915)
+MES를 위한 API 웹 솔루션 프로젝트(250828~250915)
 <a href="https://github.com/kim-jaeeun-class/2ndProj">링크</a>
 <ul>
   <li>역할 : 
@@ -65,7 +65,7 @@ MES를 위한 API 웹 솔루션 프로젝트(250829~250915)
 
 <h3>2. 객체 지향 프로젝트</h3>
 웹페이지를 위한 프론트엔드 프로젝트(250723~250805)
-<a href="https://github.com/kim-jaeeun-class/2ndProj">링크</a>
+<a href="https://github.com/kim-jaeeun-class/M1F4_Project">링크</a>
 <ul>
     <li>역할 : 
     <ul>
